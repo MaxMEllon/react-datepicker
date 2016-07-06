@@ -1,7 +1,6 @@
 import moment from 'moment'
 import YearDropdown from './year_dropdown'
 import Month from './month'
-import React from 'react'
 import { isSameDay, allDaysDisabledBefore, allDaysDisabledAfter, getEffectiveMinDate, getEffectiveMaxDate } from './date_utils'
 
 var Calendar = React.createClass({

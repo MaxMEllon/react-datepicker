@@ -1,5 +1,3 @@
-import React, { Children, PropTypes } from 'react'
-import ReactDOM from 'react-dom'
 import Tether from 'tether'
 
 function childrenPropType ({ children }, propName, componentName) {

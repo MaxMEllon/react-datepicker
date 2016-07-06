@@ -1,5 +1,4 @@
 import moment from 'moment'
-import React from 'react'
 import { isSameDay, isDayDisabled } from './date_utils'
 
 var DateInput = React.createClass({

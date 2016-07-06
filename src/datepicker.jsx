@@ -1,6 +1,5 @@
 import DateInput from './date_input'
 import Calendar from './calendar'
-import React from 'react'
 import TetherComponent from './tether_component'
 import classnames from 'classnames'
 import { isSameDay } from './date_utils'

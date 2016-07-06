@@ -1,4 +1,3 @@
-import React from 'react'
 import Week from './week'
 
 var Month = React.createClass({
